@@ -40,7 +40,7 @@ class _NavigationbarState extends State<NavigationbarPage> {
           BottomNavigationBarItem(
               icon: Icon(
                 Icons.home,
-                color: Colors.black,
+                color: Colors.black,  
               ),
               label: 'home'),
           BottomNavigationBarItem(
